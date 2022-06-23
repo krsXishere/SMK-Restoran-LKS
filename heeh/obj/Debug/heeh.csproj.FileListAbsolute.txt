@@ -1,0 +1,15 @@
+C:\Users\chandra\source\repos\heeh\heeh\bin\Debug\heeh.exe.config
+C:\Users\chandra\source\repos\heeh\heeh\bin\Debug\heeh.exe
+C:\Users\chandra\source\repos\heeh\heeh\bin\Debug\heeh.pdb
+C:\Users\chandra\source\repos\heeh\heeh\obj\Debug\heeh.csproj.AssemblyReference.cache
+C:\Users\chandra\source\repos\heeh\heeh\obj\Debug\heeh.csproj.SuggestedBindingRedirects.cache
+C:\Users\chandra\source\repos\heeh\heeh\obj\Debug\heeh.Properties.Resources.resources
+C:\Users\chandra\source\repos\heeh\heeh\obj\Debug\heeh.csproj.GenerateResource.cache
+C:\Users\chandra\source\repos\heeh\heeh\obj\Debug\heeh.csproj.CoreCompileInputs.cache
+C:\Users\chandra\source\repos\heeh\heeh\obj\Debug\heeh.exe
+C:\Users\chandra\source\repos\heeh\heeh\obj\Debug\heeh.pdb
+C:\Users\chandra\source\repos\heeh\heeh\obj\Debug\heeh.FormLogin.resources
+C:\Users\chandra\source\repos\heeh\heeh\obj\Debug\heeh.FormAdminNavigation.resources
+C:\Users\chandra\source\repos\heeh\heeh\obj\Debug\heeh.UserController.UCOrderAdminNavigation.resources
+C:\Users\chandra\source\repos\heeh\heeh\obj\Debug\heeh.UserController.UCManageMenuAdminNavigation.resources
+C:\Users\chandra\source\repos\heeh\heeh\obj\Debug\heeh.UserController.UCManageMemberAdminNavigation.resources
