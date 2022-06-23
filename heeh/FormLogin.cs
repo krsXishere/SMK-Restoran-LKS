@@ -39,10 +39,7 @@ namespace heeh
 
             if (txtEmail.Text != "" && txtPassword.Text != "")
             {
-                SqlConnection connection = helper.getConnection();
-                SqlDataAdapter dataAdapter = new SqlDataAdapter("select position, namaEmployee from MsEmployee where email='" + email + "' and pass='" + password + "'", connection);
-                DataTable dataTable = new DataTable();
-                dataAdapter.Fill(dataTable);
+                DataTable dataTable = helper.Login(email, password);
                 Console.WriteLine(dataTable.Rows.Count);
                 foreach (DataRow dataRow in dataTable.Rows)
                 {

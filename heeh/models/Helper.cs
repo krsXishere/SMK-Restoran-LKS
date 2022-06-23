@@ -40,5 +40,14 @@ namespace heeh.models
 
             MessageBox.Show(""+message+"", "Berhasil", MessageBoxButtons.OK, MessageBoxIcon.Information);
         }
+
+        public DataTable Login(String email, String pass)
+        {
+            SqlConnection connection = getConnection();
+            SqlDataAdapter sqlDataAdapter = new SqlDataAdapter("select position, namaEmployee from MsEmployee where email='"+email+"' and pass='"+pass+"'", connection);
+            DataTable dataTable = new DataTable();
+            sqlDataAdapter.Fill(dataTable);
+            return dataTable;
+        }
     }
 }
